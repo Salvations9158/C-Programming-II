@@ -130,6 +130,17 @@
     <ClCompile Include="ch09-01.c" />
     <ClCompile Include="ch09-02.c" />
     <ClCompile Include="ch09-03.c" />
+    <ClCompile Include="ch09-04.c" />
+    <ClCompile Include="ch09-05.c" />
+    <ClCompile Include="ch09-06.c" />
+    <ClCompile Include="ch09-07.c" />
+    <ClCompile Include="ch09-08.c" />
+    <ClCompile Include="ch09-09.c" />
+    <ClCompile Include="ch09-10.c" />
+    <ClCompile Include="ch09-11.c" />
+    <ClCompile Include="ch09-12.c" />
+    <ClCompile Include="ch09-13.c" />
+    <ClCompile Include="ch09-14.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
