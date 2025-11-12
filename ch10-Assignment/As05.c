@@ -8,7 +8,7 @@
 #define MAX_PRODUCTS 5  
 #define MAX_NAME_LEN 30
 
-typedef struct
+typedef struct _PRODUCT
 {
 	char name[MAX_NAME_LEN]; 
 	int price;               
