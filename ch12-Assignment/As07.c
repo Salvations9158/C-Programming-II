@@ -81,7 +81,7 @@ int ExecuteMergeAndSort()
 
     FILE* fp_out = NULL;
     if (fopen_s(&fp_out, fullpath_out, "wb") != 0) {
-        printf("오류: 출력 2진 파일을 열 수 없습니다.\n");
+        printf("출력 2진 파일을 열 수 없습니다.\n");
         success = 1; goto cleanup;
     }
 
